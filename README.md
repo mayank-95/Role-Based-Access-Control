@@ -26,3 +26,5 @@
 - controllers.py contains the basic functions/methods to fulfill functional requirements.
  
 - main.py contains methods for creating CLI view.
+
+- refer sample.txt for a sample run
