@@ -1,0 +1,46 @@
+--------------Welcome to Role Based Access Control System---------------------
+
+1. Login as Admin
+2. Login as Regular user
+3. Exit
+Please select an option from above:
+2
+id     username
+1     Raj
+2     Bob
+3     Tom
+4     Bill
+Please type id of user you would like to login as:
+3
+1. Access a resource
+2. View my Access Rights
+3. Exit
+Please select an option from above:
+2
+
+All readonly access permissions as are follows:
+
+Resource  access permission
+s3         Read
+EC2         Read
+Press Enter to continue
+
+1. Access a resource
+2. View my Access Rights
+3. Exit
+Please select an option from above:
+1
+id     resourcename
+1     s3
+2     EC2
+Type id of resource you want to access:
+1
+id     actionname
+1      Create
+2      Read
+3      Update
+4      Delete
+id of action you want to access:
+2
+Read performed on s3
+Press Enter to continue
